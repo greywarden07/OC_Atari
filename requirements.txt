@@ -4,7 +4,7 @@ beautifulsoup4==4.12.3
 gymnasium==0.29.1
 ipdb==0.13.13
 keyboard==0.13.5
-matplotlib==3.8.0
+matplotlib==3.7.5
 numpy==1.26.4
 opencv_python==4.8.1.78
 pandas==2.2.0
