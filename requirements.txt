@@ -8,7 +8,7 @@ numpy
 opencv_python==4.8.1.78
 pandas==2.0.3
 Pillow==10.0.1
-pyfiglet==1.0.2
+pyfiglet==0.8.post1
 pygame==2.5.2
 pynput==1.7.6
 Requests==2.31.0
